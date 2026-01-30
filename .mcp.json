@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "local-dev-mcp": {
-      "command": "PLACEHOLDER_PATH/local-dev-mcp/run.sh",
+      "command": "/Users/brandonparker/Projects/mcp-tools/local-dev-mcp/run.sh",
       "args": [],
       "env": {}
     }
